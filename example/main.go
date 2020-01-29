@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/nicholasjackson/env"
+	"github.com/noni73/env"
 	"fmt"
 	"os"
 )
